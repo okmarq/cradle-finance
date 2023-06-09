@@ -29,7 +29,6 @@ Cradle Finance uses [Laravel](http://laravel.com), the best existing PHP framewo
 ## Installation
 
 * Install [Composer](https://getcomposer.org/download) and [Npm](https://nodejs.org/en/download)
-* Clone the repository: `git clone https://github.com/cradle_finance/cradle_finance.git`
 * Install dependencies: `composer install ; npm install ; npm run dev`
 * Install Cradle Finance:
 
